@@ -1,0 +1,127 @@
+{
+  "users": [
+    {
+      "email": "helen@facebook.com",
+      "password": "$2a$10$ppRSDaS6sUr2g1bOhN8sZu/2fV97T7tbL1IKtTh2iZRdTbsB0m4HO",
+      "name": "Helen",
+      "role": "admin",
+      "id": 1
+    },
+    {
+      "email": "mauricio@google.com",
+      "password": "$2a$10$SCeCDXxD40jojmihyOfwJujk2MhC2a7HIeGFI8mEqOrlSbdYgCUKO",
+      "name": "Maricio",
+      "role": "editor",
+      "id": 2
+    },
+    {
+      "email": "karina.guizelli@gmail.com",
+      "password": "$2a$10$oapFsHvAb5wzRCPR5z6DhOPPdLfdX4.s7RkW8YEl.wCOVqBPLhH5e",
+      "name": "KarinaG",
+      "age": "18",
+      "id": 3
+    },
+    {
+      "email": "vicky@cachorropreto",
+      "password": "$2a$10$VNdAaBvGi9nnTfP23aOn6.yEeUGMkpv6XE47vdbeauEOZN.zyYbEC",
+      "name": "Vicky Cristina",
+      "age": "19",
+      "id": 4
+    },
+    {
+      "email": "usuario@usuario",
+      "password": "$2a$10$T3IItl8fs8KaqHOGhEIKrekaOOj4y8zMGP43Wr2qqaQeVmxdoMKRS",
+      "name": "Usuário",
+      "age": "20",
+      "id": 5
+    },
+    {
+      "email": "oi@oi",
+      "password": "$2a$10$hJfa5slWf8FecMvBW6xkFOIxvFuWyjWWr8EjcYvSKMkFlnsPVovgi",
+      "name": "Oi",
+      "age": "22",
+      "id": 6
+    },
+    {
+      "email": "larissa@larissa",
+      "password": "$2a$10$vkpDa6HfYGvQC7VRQonz4ujSLSa1lEhJb8QkC41lqtpGbHwnYIQZK",
+      "name": "Larissa",
+      "age": "25",
+      "id": 7
+    },
+    {
+      "email": "lucas@lucas",
+      "password": "$2a$10$UPBDeAIU/HUGW7JB.xCa8uqcIONwjAKzYsPVfZLdsY.r9fAuR/2G6",
+      "name": "Lucas",
+      "age": "50",
+      "id": 8
+    },
+    {
+      "email": "vicky@cachorropreto2",
+      "password": "$2a$10$9FS5EY1qH/GhC3Px6DyRb.MhizjbATmFsXHDRQ3ECbZ1H67U7LJjS",
+      "name": "Vicky2",
+      "age": "18",
+      "id": 9
+    }
+  ],
+  "register": [],
+  "categories": [
+    "Cervejas",
+    "Marcas",
+    "Acessórios",
+    "Destilados",
+    "Kits",
+    "Lançamentos"
+  ],
+  "beers": [
+    {
+      "id": 1,
+      "title": "Pack Cerveja Michelob Ultra Light Lager 355ml (6 unidades)",
+      "price": 29.94,
+      "description": "Michelob Ultra",
+      "image": "https://emporiodacerveja.vtexassets.com/arquivos/ids/179041-1200-auto?width=1200&height=auto&aspect=true"
+    },
+    {
+      "id": 2,
+      "title": "Cerveja Hoegaarden Wit 330ml ",
+      "price": 6.69,
+      "description": "Hoegaarden",
+      "image": "https://emporiodacerveja.vtexassets.com/arquivos/ids/169192-1200-auto?width=1200&height=auto&aspect=true"
+    },
+    {
+      "id": 3,
+      "title": "Cerveja Patagonia Amber Lager 473ml",
+      "price": 7.95,
+      "description": "Patagonia",
+      "image": "https://emporiodacerveja.vtexassets.com/arquivos/ids/175507-1200-auto?width=1200&height=auto&aspect=true"
+    },
+    {
+      "id": 4,
+      "title": "Cerveja Antarctica Original 600ml Caixa (12 Unidades)",
+      "price": 77.88,
+      "description": "Original",
+      "image": "https://emporiodacerveja.vtexassets.com/arquivos/ids/175560-1200-auto?width=1200&height=auto&aspect=true"
+    },
+    {
+      "id": 5,
+      "title": "Cerveja Paulistania Marco Zero 350ml",
+      "price": 5.4,
+      "description": "Paulistânia",
+      "image": "https://emporiodacerveja.vtexassets.com/arquivos/ids/178530-1200-auto?width=1200&height=auto&aspect=true"
+    },
+    {
+      "id": 6,
+      "title": "Cerveja Erdinger Tradicional Weiss 500ml",
+      "price": 16.9,
+      "description": "Erdinger",
+      "image": "https://emporiodacerveja.vtexassets.com/arquivos/ids/175042-1200-auto?width=1200&height=auto&aspect=true"
+    },
+    {
+      "title": "Pack Cerveja Michelob Ultra Light Lager 355ml (6 unidades)",
+      "price": 29.94,
+      "description": "Michelob Ultra",
+      "image": "https://emporiodacerveja.vtexassets.com/arquivos/ids/179041-1200-auto?width=1200&height=auto&aspect=true",
+      "id": 7
+    }
+  ]
+}
