@@ -13,55 +13,6 @@
       "name": "Maricio",
       "role": "editor",
       "id": 2
-    },
-    {
-      "email": "karina.guizelli@gmail.com",
-      "password": "$2a$10$oapFsHvAb5wzRCPR5z6DhOPPdLfdX4.s7RkW8YEl.wCOVqBPLhH5e",
-      "name": "KarinaG",
-      "age": "18",
-      "id": 3
-    },
-    {
-      "email": "vicky@cachorropreto",
-      "password": "$2a$10$VNdAaBvGi9nnTfP23aOn6.yEeUGMkpv6XE47vdbeauEOZN.zyYbEC",
-      "name": "Vicky Cristina",
-      "age": "19",
-      "id": 4
-    },
-    {
-      "email": "usuario@usuario",
-      "password": "$2a$10$T3IItl8fs8KaqHOGhEIKrekaOOj4y8zMGP43Wr2qqaQeVmxdoMKRS",
-      "name": "Usuário",
-      "age": "20",
-      "id": 5
-    },
-    {
-      "email": "oi@oi",
-      "password": "$2a$10$hJfa5slWf8FecMvBW6xkFOIxvFuWyjWWr8EjcYvSKMkFlnsPVovgi",
-      "name": "Oi",
-      "age": "22",
-      "id": 6
-    },
-    {
-      "email": "larissa@larissa",
-      "password": "$2a$10$vkpDa6HfYGvQC7VRQonz4ujSLSa1lEhJb8QkC41lqtpGbHwnYIQZK",
-      "name": "Larissa",
-      "age": "25",
-      "id": 7
-    },
-    {
-      "email": "lucas@lucas",
-      "password": "$2a$10$UPBDeAIU/HUGW7JB.xCa8uqcIONwjAKzYsPVfZLdsY.r9fAuR/2G6",
-      "name": "Lucas",
-      "age": "50",
-      "id": 8
-    },
-    {
-      "email": "vicky@cachorropreto2",
-      "password": "$2a$10$9FS5EY1qH/GhC3Px6DyRb.MhizjbATmFsXHDRQ3ECbZ1H67U7LJjS",
-      "name": "Vicky2",
-      "age": "18",
-      "id": 9
     }
   ],
   "register": [],
